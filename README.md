@@ -1,187 +1,148 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Aref+Ruqaa&size=60&duration=3000&pause=1000&color=C5A059&center=true&vCenter=true&width=900&height=120&lines=تاريخ+لغة+الضاد;The+History+of+Arabic;رحلة+عبر+الزمن" alt="Typing SVG" />
+# ✦ Arabic Codex ✦
+### المخطوطة العربية
 
-<br/>
+**An immersive digital museum chronicling 1,500 years of the Arabic language**
+*من نقوش الصحراء · إلى عصر الذكاء الاصطناعي*
 
-<img src="https://readme-typing-svg.demolab.com?font=Amiri&size=24&duration=4000&pause=500&color=7B241C&center=true&vCenter=true&multiline=false&width=800&height=50&lines=من+نقوش+الصحراء+إلى+عصر+الذكاء+الاصطناعي" alt="Subtitle" />
-
-<br/><br/>
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-C5A059?style=for-the-badge&labelColor=16213e)](https://lughatal-dad.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-16213e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/lughatal-dad)
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Site-C5A059?style=for-the-badge&labelColor=16213e)](https://arabic-codex.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-mohasbks%2Farabic--codex-16213e?style=for-the-badge&logo=github)](https://github.com/mohasbks/arabic-codex)
 [![License](https://img.shields.io/badge/License-MIT-7b241c?style=for-the-badge)](LICENSE)
-
-<br/>
-
-```
- ض  ع  ر  ب  ي  ة
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  رحلة بصرية وحسية في جذور اللغة العربية
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+[![Made with](https://img.shields.io/badge/Made%20with-HTML%20·%20CSS%20·%20JS-c5a059?style=for-the-badge)](#)
 
 </div>
 
 ---
 
-## ✨ نظرة عامة | Overview
-
-> **لغة الضاد** هو متحف رقمي غامر يأخذ الزائر في رحلة عبر تاريخ اللغة العربية كاملاً — من الشعر الجاهلي المنقوش على الصخر، مروراً ببيت الحكمة في بغداد وروائع الأندلس، وصولاً إلى تحديات العصر الرقمي.
-
-> **Lughatal-Dad** is an immersive digital museum guiding visitors through the complete history of the Arabic language — from pre-Islamic desert poetry carved in stone, through the House of Wisdom in Baghdad and Andalusian splendor, all the way to the challenges of the digital age.
-
----
-
-## 🏛️ المحطات التاريخية | Historical Eras
-
 <table>
-  <tr>
-    <td align="center">🏜️</td>
-    <td><b>الجذور الأولى</b><br/>الشعر الجاهلي والمعلقات السبع</td>
-  </tr>
-  <tr>
-    <td align="center">📜</td>
-    <td><b>عصر التدوين والنقاط</b><br/>تفاعل حي: شاهد كيف وُلدت النقاط لحماية القرآن</td>
-  </tr>
-  <tr>
-    <td align="center">🔭</td>
-    <td><b>بيت الحكمة والعلوم</b><br/>العربية لغة الطب والفلك والجبر</td>
-  </tr>
-  <tr>
-    <td align="center">🌹</td>
-    <td><b>فردوس الحروف — الأندلس</b><br/>الموشحات وجماليات الخط في قصور غرناطة</td>
-  </tr>
-  <tr>
-    <td align="center">🖨️</td>
-    <td><b>عصر المطبعة والنهضة</b><br/>من المخطوطات إلى الصحف وشعراء النهضة</td>
-  </tr>
-  <tr>
-    <td align="center">🤖</td>
-    <td><b>الفضاء الرقمي والذكاء الاصطناعي</b><br/>تحديات لغة الضاد في عصر الخوارزميات</td>
-  </tr>
-  <tr>
-    <td align="center">🖌️</td>
-    <td><b>مختبر الخطاط</b><br/>ارسم بحبر رقمي سائل على لوحة تفاعلية</td>
-  </tr>
+<tr>
+<td width="50%">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Birmingham_Quran_manuscript_full.jpg/800px-Birmingham_Quran_manuscript_full.jpg" width="100%" alt="Birmingham Quran Manuscript — one of the oldest in the world"/>
+
+<sub>📜 مخطوطة قرآنية من برمنغام — من أقدم المخطوطات في العالم</sub>
+
+</td>
+<td width="50%">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Alhambra_Patio_de_los_Leones.jpg/800px-Alhambra_Patio_de_los_Leones.jpg" width="100%" alt="Alhambra — Palace of Arabic Calligraphy"/>
+
+<sub>🌹 الحمراء — فردوس الحروف العربية في الأندلس</sub>
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🎨 الميزات التصميمية | Design Features
+## ✦ عن المشروع | About
 
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   🪶  خطوط عربية تراثية    Aref Ruqaa · Amiri · Reem   │
-│   🫙  ملمس الورق العتيق    Parchment · Noise Overlay    │
-│   🔮  زجاج رقمي فاخر       Premium Glassmorphism        │
-│   ✍️  أنيميشن تدرجي         Staggered Card Settle        │
-│   💧  حبر سائل حقيقي        Catmull-Rom Ink Engine       │
-│   📱  متجاوب بالكامل        Fully Responsive + Touch     │
-│   🍔  قائمة هاتف أنيقة      Mobile Fullscreen Overlay    │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
+> **Arabic Codex** is not a website — it is a **living manuscript**. Built with pure HTML, CSS, and Vanilla JavaScript, it takes the visitor on an immersive journey through the complete history of the Arabic language; from the *Mu'allaqat* poetry of pre-Islamic Arabia, through the golden age of *Bayt al-Hikma* in Baghdad and the splendour of Andalusia, to the challenges of the digital age and AI.
+
+> **Arabic Codex** ليس موقعاً عادياً — إنه **مخطوطة حية** مبنية بـ HTML وCSS وJavaScript فقط. تأخذ الزائر في رحلة غامرة عبر التاريخ الكامل للغة العربية؛ من قصائد المعلقات الجاهلية، مروراً بعصر بيت الحكمة في بغداد وروائع الأندلس، وصولاً إلى تحديات العصر الرقمي والذكاء الاصطناعي.
 
 ---
 
-## ⚡ التقنيات المستخدمة | Tech Stack
+## 🏛️ المحطات | The Seven Eras
 
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Canvas API](https://img.shields.io/badge/Canvas_API-16213e?style=for-the-badge&logoColor=white)
-![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-
-**لا مكتبات خارجية — Vanilla only** | No frameworks, no dependencies.
+<table>
+<tr><td>🏜️ <b>الجذور الأولى</b></td><td>الشعر الجاهلي · المعلقات السبع · لغة الفصحى قبل الإسلام</td></tr>
+<tr><td>📜 <b>عصر التدوين</b></td><td>تفاعل حي: شاهد لحظة وُلدت فيها النقاط لحماية القرآن الكريم</td></tr>
+<tr><td>🔭 <b>بيت الحكمة</b></td><td>بغداد عاصمة العلم · العربية لغة الطب والفلك والجبر والخوارزمية</td></tr>
+<tr><td>🌹 <b>الأندلس</b></td><td>فردوس الحروف · الموشحات · الخط في قصور غرناطة وإشبيلية</td></tr>
+<tr><td>🖨️ <b>النهضة</b></td><td>المطبعة العربية · الصحافة · شعراء النهضة وأحمد شوقي</td></tr>
+<tr><td>🤖 <b>العصر الرقمي</b></td><td>تحديات اللغة العربية في عصر الخوارزميات والذكاء الاصطناعي</td></tr>
+<tr><td>🖌️ <b>مختبر الخطاط</b></td><td>ارسم بحبر رقمي سائل · 4 ألوان أثرية · تحميل كصورة PNG</td></tr>
+</table>
 
 ---
 
-## 🖌️ مختبر الخطاط | Ink Lab
+## 🎨 التصميم | Design System
 
-المحرك مبني على خوارزمية **Catmull-Rom Spline** لضمان خطوط ناعمة بلا تقطع:
+<table>
+<tr>
+<td align="center">🪶</td><td><b>Arabic Heritage Fonts</b><br/>Aref Ruqaa · Amiri · Reem Kufi</td>
+<td align="center">🔮</td><td><b>Premium Glassmorphism</b><br/>backdrop-filter blur + gold borders</td>
+</tr>
+<tr>
+<td align="center">📜</td><td><b>Parchment Texture</b><br/>SVG noise + aged paper gradient</td>
+<td align="center">🃏</td><td><b>Staggered Card Settle</b><br/>Micro-tilt animation on scroll reveal</td>
+</tr>
+<tr>
+<td align="center">💧</td><td><b>Liquid Ink Engine</b><br/>Catmull-Rom splines + dual canvas bleed</td>
+<td align="center">📱</td><td><b>Fully Responsive</b><br/>Mobile-first + fullscreen overlay menu</td>
+</tr>
+</table>
+
+---
+
+## 🖌️ The Ink Lab Engine
+
+The calligraphy canvas uses a **Catmull-Rom spline** algorithm for perfectly smooth, gap-free strokes — like real ink flowing on paper:
 
 ```javascript
-// Smooth bezier through 4 rolling points
+// 4-point rolling buffer → smooth bezier curves
 const cp1x = p1.x + (p2.x - p0.x) / 6;
 const cp2x = p2.x - (p3.x - p1.x) / 6;
 ctx.bezierCurveTo(cp1x, cp1y, cp2x, cp2y, p2.x, p2.y);
 
-// Dual canvas: sharp layer + bleed layer (blur: 4px, opacity: 35%)
-bleedCtx.lineWidth = w * 2.2;  // wider softer stroke beneath
+// Dual canvas: sharp ink layer + blurred bleed layer beneath
+bleedCtx.lineWidth = strokeWidth * 2.2;   // capillary ink spread
+bleedCtx.filter   = 'blur(4px)';
+bleedCtx.opacity  =  0.35;
 ```
 
-الميزات:
-- 🎨 **4 ألوان حبر أثرية** — اللازورد، القرمزي، الذهب، الزمرد
-- 📏 **3 أقلام** — رفيع / متوسط / عريض مع تأثير velocity
-- 🖱️ **مؤشر مخصص** يتكيف مع لون الحبر المختار
-- 📲 **يعمل باللمس** على الأجهزة المحمولة والأقلام الرقمية
-- ⬇️ **تحميل كصورة** PNG بخلفية ورق عاجي
+Features: `4 antique ink colors` · `velocity-based stroke width` · `custom cursor` · `touch support` · `PNG export`
 
 ---
 
-## 🚀 التشغيل المحلي | Run Locally
+## ⚡ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Canvas API](https://img.shields.io/badge/Canvas_API-16213e?style=flat-square)
+![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=flat-square&logo=google&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
+
+**Zero dependencies · No frameworks · No build step**
+
+---
+
+## 🚀 Run Locally
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/lughatal-dad.git
+git clone https://github.com/mohasbks/arabic-codex.git
+cd arabic-codex
 
-# Enter the project directory
-cd lughatal-dad
-
-# Open with any local server (e.g., VS Code Live Server)
-# OR use Python's built-in server:
+# Open with VS Code Live Server, or:
 python -m http.server 8080
-
-# Then open http://localhost:8080 in your browser
+# → http://localhost:8080
 ```
 
 ---
 
-## 📁 هيكل المشروع | Project Structure
+## 📁 Structure
 
 ```
-lughatal-dad/
-│
-├── 📄 index.html          ← The complete page structure (7 eras + Ink Lab)
-├── 🎨 style.css           ← Design system, animations & responsive styles
-├── ⚡ script.js           ← Interactivity, canvas engine & scroll reveals
-└── 📖 README.md           ← This file
+arabic-codex/
+├── index.html   ← Full page — 7 eras + Ink Lab
+├── style.css    ← Design system, glassmorphism, animations
+├── script.js    ← Canvas engine, scroll reveals, interactivity
+└── README.md
 ```
-
----
-
-## 🌐 النشر | Deployment
-
-النشر مباشرة عبر **Vercel** بلا أي إعداد إضافي — المشروع static بالكامل.
-
-```bash
-# Using Vercel CLI
-npm i -g vercel
-vercel --prod
-```
-
----
-
-## 📜 الرخصة | License
-
-MIT License — استخدم الكود بحرية مع الإشارة للمصدر
 
 ---
 
 <div align="center">
 
-```
-صُنع بكل حُب واعتزاز للغة الضاد
-Made with love for the Arabic language ❤️
-```
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Basmala_word.svg/1200px-Basmala_word.svg.png" width="400" alt="Bismillah Arabic Calligraphy"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Aref+Ruqaa&size=30&duration=5000&pause=1000&color=C5A059&center=true&vCenter=true&width=600&height=80&lines=لغة+الضاد+خالدة+إلى+الأبد;Arabic+Lives+Forever" alt="Footer" />
+<br/>
+
+*صُنع بعشق اللغة العربية · Made with love for the Arabic language*
+
+**© 2025 mohasbks · MIT License**
 
 </div>
