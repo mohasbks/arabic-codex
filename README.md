@@ -19,14 +19,14 @@
 <tr>
 <td width="50%">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Birmingham_Quran_manuscript_full.jpg/800px-Birmingham_Quran_manuscript_full.jpg" width="100%" alt="Birmingham Quran Manuscript — one of the oldest in the world"/>
+<img src="assets/quran-manuscript.png" width="100%" alt="Ancient Arabic Quran Manuscript"/>
 
 <sub>📜 مخطوطة قرآنية من برمنغام — من أقدم المخطوطات في العالم</sub>
 
 </td>
 <td width="50%">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Alhambra_Patio_de_los_Leones.jpg/800px-Alhambra_Patio_de_los_Leones.jpg" width="100%" alt="Alhambra — Palace of Arabic Calligraphy"/>
+<img src="assets/alhambra.png" width="100%" alt="Alhambra Palace — Moorish Arabic Architecture"/>
 
 <sub>🌹 الحمراء — فردوس الحروف العربية في الأندلس</sub>
 
@@ -137,7 +137,7 @@ arabic-codex/
 
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Basmala_word.svg/1200px-Basmala_word.svg.png" width="400" alt="Bismillah Arabic Calligraphy"/>
+<img src="assets/bismillah.png" width="500" alt="Bismillah Arabic Calligraphy"/>
 
 <br/>
 
