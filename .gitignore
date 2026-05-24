@@ -1,0 +1,29 @@
+# تجاهل ملفات النظام | Ignore system files
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.DS_Store
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Editors
+*.swp
+*.swo
+*~
+
+# Node (if ever used)
+node_modules/
+npm-debug.log*
+
+# Vercel
+.vercel/
