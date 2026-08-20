@@ -7,7 +7,7 @@
 *من نقوش الصحراء · إلى عصر الذكاء الاصطناعي*
 
 [![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Site-C5A059?style=for-the-badge&labelColor=16213e)](https://arabic-codex.vercel.app)
-[![Repo](https://img.shields.io/badge/GitHub-mohasbks%2Farabic--codex-16213e?style=for-the-badge&logo=github)](https://github.com/mohasbks/arabic-codex)
+[![Repo](https://img.shields.io/badge/GitHub-Almotasembellahawwad%2Farabic--codex-16213e?style=for-the-badge&logo=github)](https://github.com/Almotasembellahawwad/arabic-codex)
 [![License](https://img.shields.io/badge/License-MIT-7b241c?style=for-the-badge)](LICENSE)
 [![Made with](https://img.shields.io/badge/Made%20with-HTML%20·%20CSS%20·%20JS-c5a059?style=for-the-badge)](#)
 
@@ -113,7 +113,7 @@ Features: `4 antique ink colors` · `velocity-based stroke width` · `custom cur
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/mohasbks/arabic-codex.git
+git clone https://github.com/Almotasembellahawwad/arabic-codex.git
 cd arabic-codex
 
 # Open with VS Code Live Server, or:
@@ -143,6 +143,6 @@ arabic-codex/
 
 *صُنع بعشق اللغة العربية · Made with love for the Arabic language*
 
-**© 2025 mohasbks · MIT License**
+**© 2025 Almotasembellahawwad · MIT License**
 
 </div>
